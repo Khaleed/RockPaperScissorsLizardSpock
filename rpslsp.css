@@ -1,0 +1,57 @@
+#body {
+	text-align: center;
+	font-family: Arial sans-serif;
+	color: #f8f5ef; 
+}
+
+#wrapper {                   
+	width: 500px;
+	margin: 0 auto;
+}
+
+#header {
+  width: 600px; 
+  margin: 0 auto; 
+}
+
+#game-rules {				
+	font-size: 1em;
+	color: blue;
+}
+
+#start-game {
+	font-size: 1em;
+	display: inline-block;
+}
+
+#gametable {
+	border: 1px solid black;
+}
+
+#selectors { 
+	display: none; 
+}
+
+#h3 {
+	font-size: 2.5em; 
+}
+
+.game-result {
+	font-size: 1em;
+	font-weight: bold; 
+	color: black;
+	text-align: center;
+
+}
+
+#results {
+	font-size: 1em;
+	color: #5260FF;
+	text-align: center; 
+}
+
+#scores span {
+	color: red;
+}
+
+
